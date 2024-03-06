@@ -1,0 +1,120 @@
+*
+body {
+    background-color: rgb(22, 145, 22);
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    /* border: 2px solid red; */
+    margin: 20px;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 25;
+    margin-top: 25px;
+}
+.nom{
+    border-radius: 2px;
+    background-color: black;
+    color: antiquewhite;
+    width: 40px;
+    border: black;
+    table-layout: auto;
+
+}
+.plan{
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    background-color: yellowgreen;
+    border-radius: 15px;
+    /* margin: 30px; */
+    padding-right: 40px;
+    margin-left: 350px;
+
+    
+}
+.reja{
+    /* margin-top: 20px; */
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(12, 12, 12);
+    text-align: center;
+    /* margin-bottom: 20px; */
+    background-color: antiquewhite;
+    border-radius: 70px;
+    width:210px;
+    margin-left: 250px;
+    justify-content: center;
+
+}
+.kun{
+    background-color: whitesmoke;
+}
+.title {
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.homework{
+    /* margin-top: 20px; */
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(12, 12, 12);
+    text-align: center;
+    /* margin-bottom: 20px; */
+    background-color: antiquewhite;
+    border-radius: 70px;
+    width: 110px;
+    margin-left: 550px;
+    justify-content: center;
+}
+.vazifa{
+    width: 85%;
+    margin-top: 60px;
+    margin-left: 100px;
+    height:auto;
+    padding-right: 10px;
+    background-color: yellowgreen;
+    border-radius: 15px;
+}
+.ibodat{
+    width: 85%;
+    margin-top: 60px;
+    margin-left: 100px;
+    height:auto;
+    padding-right: 10px;
+    background-color: yellowgreen;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+.ibodats{
+  /* margin-top: 20px; */
+  font-size: 22px;
+  font-weight: bold;
+  color: rgb(12, 12, 12);
+  text-align: center;
+  /* margin-bottom: 20px; */
+  background-color: antiquewhite;
+  border-radius: 70px;
+  width: 110px;
+  margin-left: 550px;
+  justify-content: center;  
+}
+
+.footer input{
+    
+    background-color: rgb(22, 145, 22);
+}
+.footer{
+    margin-top:30px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
